@@ -8,7 +8,7 @@ spec:
     matchLabels:
       app: html-demo
   template:
-    metadata:
+    metadata: 
       labels:
         app: html-demo
     spec:
